@@ -1,0 +1,526 @@
+* {
+    font-family: cursive;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.section {
+    background-color: #330045;
+    height: 600px;
+}
+
+h1 {
+    padding: 0px;
+    margin: 20px 20px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    position: absolute;
+}
+
+.nav {
+    margin: 33px 310px;
+    position: absolute;
+}
+
+.nav a {
+    margin-left: 60px;
+    color: white;
+}
+
+.nav a:hover {
+    color: rgb(255, 0, 128);
+}
+
+.btn {
+    float: right;
+    margin: 22px 40px;
+    font-size: 15px;
+    height: 45px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: rgb(255, 0, 128);
+    border: 2px solid rgb(255, 0, 128);
+    color: white;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #330045;
+    border: 2px solid #330045;
+    color: rgb(255, 0, 128);
+}
+
+header {
+    height: 90px;
+}
+
+.lorem {
+    width: 600px;
+    margin: 15px 20px 30px 120px;
+}
+
+.well {
+    font-size: 40px;
+}
+
+.hed {
+    font-size: 30px;
+}
+
+.clr {
+    color: white;
+}
+
+.clor {
+    color: white;
+}
+
+.content {
+    height: 470px;
+}
+
+.image img {
+    height: 417px;
+    width: 332px;
+    border-radius: 30px;
+    position: absolute;
+    top: 140px;
+    right: 140px;
+}
+
+.button {
+    margin: 0px 121px;
+    font-size: 15px;
+    height: 45px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: rgb(255, 0, 128);
+    border: 2px solid rgb(255, 0, 128);
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #330045;
+    border: 2px solid #330045;
+    color: rgb(255, 0, 128);
+}
+
+.lorem1 {
+    width: 600px;
+    margin: 0px 45px 0px 100px;
+}
+
+.clr2 {
+    color: #330045;
+}
+
+.clor2 {
+    color: #330045d6;
+}
+
+.img img {
+    border-radius: 30px;
+    position: absolute;
+    top: 670px;
+    right: 120px;
+    height: 238px;
+    width: 428px;
+}
+
+.section3 {
+    height: 475px;
+    padding: 30px 0px 0px 0px;
+}
+
+.img1 img {
+    border-radius: 30px;
+    height: 130px;
+    width: 200px;
+    position: absolute;
+    margin: 0px 0px 0px 329px;
+}
+
+.img2 img {
+    border-radius: 30px;
+    height: 130px;
+    width: 200px;
+    position: absolute;
+    margin: 0px 110px;
+}
+
+.img3 img {
+    border-radius: 30px;
+    height: 238px;
+    width: 428px;
+    margin: 150px 0px 0px 106px;
+    position: absolute;
+}
+
+.content4 {
+    float: right;
+}
+
+.botn {
+    background-color: #330045;
+    border: 2px solid #330045;
+    color: white;
+    font-size: 15px;
+    height: 45px;
+    width: 100px;
+    border-radius: 15px;
+    margin: 0px 170px;
+    cursor: pointer;
+}
+
+.botn:hover {
+    background-color: white;
+    border: 2px solid white;
+    color: rgb(255, 0, 128);
+}
+
+.section4 {
+    background-color: #330045;
+}
+
+.name {
+    margin: 0px;
+    padding: 20px 0px 16px 0px;
+    text-align: center;
+    color: white;
+}
+
+.gall {
+    display: flex;
+    width: 100%;
+    height: 270px;
+    gap: 5px;
+}
+
+.gall>img {
+    width: 15%;
+    height: 250px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border: 2px solid white;
+    border-radius: 5px;
+    transition: all ease 0.5s;
+    margin: 10px 0px 0px 0px;
+}
+
+.gall>img:hover {
+    width: 100%;
+    scale: 1.1;
+}
+
+.section4 button {
+    background-color: rgb(255, 0, 128);
+    border: 2px solid rgb(255, 0, 128);
+    color: white;
+    font-size: 15px;
+    height: 45px;
+    width: 100px;
+    border-radius: 15px;
+    margin: 25px 590px;
+    cursor: pointer;
+}
+
+.section4 button:hover {
+    background-color: #330045;
+    border: 2px solid #330045;
+    color: rgb(255, 0, 128);
+}
+
+.hr1 {
+    height: 10px;
+    width: 700px;
+    background-color: #330045;
+    border-radius: 20px;
+    margin: 13px auto;
+}
+
+.hr2 {
+    height: 10px;
+    width: 520px;
+    background-color: #330045be;
+    border-radius: 20px;
+    margin: 10px auto;
+}
+
+.imgme img {
+    height: 150px;
+    width: 350px;
+    border-radius: 15px;
+    margin: 0px 0px 0px 60px;
+}
+
+.about h2 {
+    text-align: center;
+    color: #330045;
+}
+
+.imgme {
+    position: absolute;
+}
+
+.content5 {
+    margin: 0px 0px 30px 0px;
+}
+
+.content5 p {
+    width: 650px;
+    position: relative;
+    left: 540px;
+    padding: 2px 0px 0px 0px;
+    text-align: center;
+    color: #330045;
+}
+
+.logo img {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 600px;
+    margin: 17px;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 190px;
+    height: 254px;
+    perspective: 1000px;
+    font-family: sans-serif;
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    box-shadow: 0 8px 14px 0 rgba(0, 0, 0, 0.2);
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border: 1px solid coral;
+    border-radius: 1rem;
+}
+
+.flip-card-front {
+    background: linear-gradient(120deg, bisque 60%, rgb(255, 231, 222) 88%,
+            rgb(255, 211, 195) 40%, rgba(255, 127, 80, 0.603) 48%);
+    color: coral;
+}
+
+.flip-card-back {
+    background: linear-gradient(120deg, rgb(255, 174, 145) 30%, coral 88%,
+            bisque 40%, rgb(255, 185, 160) 78%);
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.section5 h2 {
+    text-align: center;
+    color: #330045;
+}
+
+.card {
+    border: 2px solid white;
+    width: 400px;
+    height: 170px;
+    border-radius: 25px;
+    margin: 22px 0px 0px 22px;
+    background-color: #330045d6;
+}
+
+.card p {
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: 30px;
+}
+
+.card-name {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
+
+.section5 img {
+    border: 2px solid rgba(155, 155, 155, 0.322);
+    height: 90px;
+    width: 89px;
+    border-radius: 50px;
+    position: absolute;
+    margin: 0px 20px;
+}
+
+.public {
+    width: 435px;
+    height: 205px;
+    display: inline-block;
+    margin: 15px 95px;
+}
+
+.public2 {
+    width: 435px;
+    height: 205px;
+    float: right;
+    margin: 15px 95px;
+}
+
+.public3 {
+    width: 435px;
+    height: 205px;
+    display: inline-block;
+    margin: 15px 95px;
+}
+
+.public4 {
+    width: 435px;
+    height: 205px;
+    float: right;
+    margin: 15px 95px;
+}
+
+.down {
+    background-color: #330045;
+    color: white;
+    margin: 12px 0px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.section6 {
+    margin: 15px 0px;
+}
+
+.cont {
+    height: 442px;
+    width: 570px;
+    position: absolute;
+    margin: 40px 0px 0px 20px;
+}
+
+.section7 {
+    height: 500px;
+    width: 600px;
+    margin: auto 595px;
+}
+
+.section7 h2 {
+    color: #330045;
+}
+
+.section7 h3 {
+    color: #330045;
+}
+
+.sub {
+    text-align: center;
+}
+
+.content6 p {
+    width: 100%;
+    display: inline-block;
+    margin: 0px;
+    color: #330045d6;
+}
+
+.form form {
+    margin: 22px auto;
+}
+
+.ctrl {
+    margin: 0px 0px 0px 180px;
+    color: #330045d6;
+}
+
+.ctr {
+    margin: 5px 5px 10px 180px;
+    border: 2px solid #330045d6;
+    border-radius: 10px;
+}
+
+.checked {
+    accent-color: #330045;
+    color: #330045d6;
+}
+
+.submit {
+    font-size: 15px;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin: 10px 0px 0px 140px;
+    background-color: #ff0080;
+    border: 2px solid #ff0080;
+    color: white;
+}
+
+.submit:hover {
+    background-color: white;
+    border: 2px solid white;
+    color: #330045;
+}
+footer {
+    background-color: #330045;
+    height: 270px;
+}
+
+.footer-pic img {
+    height: 150px;
+    width: 350px;
+    border-radius: 15px;
+    margin: 30px 80px;
+    position: absolute;
+}
+
+.lower {
+    text-align: center;
+}
+
+.lower p {
+    margin: 0px 10px;
+    display: inline-block;
+    color: white;
+}
+
+.lower2 {
+    width: 729px;
+    float: right;
+    margin: 25px 63px;
+    color: white;
+}

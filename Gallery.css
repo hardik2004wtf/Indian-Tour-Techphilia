@@ -1,0 +1,57 @@
+*{
+    font-family: cursive;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.head-section{
+    background-image: url(https://img.freepik.com/free-photo/beautiful-shot-snowy-mountain-surrounded-by-natural-mist-with-amazing-starry-sky_181624-2219.jpg?size=626&ext=jpg&ga=GA1.1.186581262.1692725413&semt=ais);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+header{
+    background-color:  #330045;
+}
+hr{
+    margin: 0px;
+  color: #4d6f84;
+}
+h1{
+    text-align: center;
+    margin: 0px;
+  padding: 20px 0px;
+}
+.img img{
+    width: 390px;
+  height: 250px;
+  border-radius: 30px;
+  border: 2px solid #80808029;
+  margin: 7px 7px;
+}
+.img p{
+    text-align: center;
+    font-size: 18px;
+  margin: 0px;
+  padding: 9px;
+}
+.section1{
+    display: flex;
+    gap: 10px;
+    margin: 0px;
+}
+.merg{
+    margin: 0px;
+}
+.content{
+    background: transparent;
+    backdrop-filter: blur(10px);
+    margin: 15px 4px;
+    border-radius: 30px;
+    border: 2px solid #80808029;
+}

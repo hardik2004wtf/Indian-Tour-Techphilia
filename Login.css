@@ -1,0 +1,73 @@
+
+* {
+    font-family: cursive;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://img.freepik.com/free-vector/gradient-landscape-design-background_23-2149120069.jpg?w=900&t=st=1707050367~exp=1707050967~hmac=f47ad83d59038ba7ac8555d5e7c7875fadf6930ecd8f87c43691e2c310852b08");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    border: 2px solid #eabaff3b;
+    border-radius: 40px;
+    text-align: center;
+    width: 370px;
+    margin: 35px auto;
+    background: transparent;
+    backdrop-filter: blur(10px);
+
+}
+
+.same {
+    text-align: center;
+}
+
+.both {
+    display: block;
+    width: 200px;
+    width: 75px;
+    margin-bottom: 2px;
+}
+
+.text input {
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.password input {
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.text {
+    margin: 30px 93px;
+}
+
+.password {
+    margin: 10px 93px;
+}
+
+.checkbox {
+    width: 155px;
+    margin-left: 85px;
+}
+
+.btn {
+    width: 181px;
+    margin: 25px auto;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer {
+    margin: 30px 0px;
+}
